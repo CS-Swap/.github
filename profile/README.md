@@ -7,3 +7,7 @@
 👨‍💻 Crediamo nell'importanza della condivisione e dell'aiuto reciproco. Se avete usufruito delle nostre risorse, vi invitiamo calorosamente a contribuire anche voi, caricando altro materiale o risolvendo altri esercizi. Insieme possiamo creare una comunità più forte.
 
 Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
