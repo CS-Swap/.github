@@ -2,7 +2,7 @@
 
 🌟 Siamo [Matteo Ricchiuto](https://github.com/rimaout), [Alessio Marini](https://github.com/alem1105) e [Edoardo Noto](https://github.com/notedo), studenti della facoltà di Informatica presso l'Università La Sapienza di Roma e abbiamo creato questo spazio per condividere esercizi svolti e progetti relativi ai corsi che stiamo frequentando.
 
-📚 Qui troverai una vasta raccolta di esercizi risolti, e altre risorse utili relative ai nostri studi universitari. Speriamo che questo repository sia utile non solo per noi, ma anche per altri studenti che cercano materiale di studio aggiuntivo o esempi pratici per approfondire i concetti affrontati nei nostri corsi.
+📚 Qui troverai una vasta raccolta di esercizi risolti, e altre risorse utili relative ai nostri studi universitari. Speriamo che questo repository sia utile non solo per noi, ma anche per altri studenti che cercano materiale di studio aggiuntivo o esempi pratici per approfondire i concetti affrontati nei corsi.
 
 👨‍💻 Crediamo nell'importanza della condivisione e dell'aiuto reciproco. Se hai usufruito delle nostre risorse, ti invitiamo calorosamente a contribuire anche tu, caricando altro materiale o risolvendo altri esercizi. Insieme possiamo creare una comunità più forte.
 
