@@ -10,9 +10,9 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
 ### Materie
 Primo anno, primo semestre
-[Algoritmi 1](https://github.com/CS-Swap/Algoritmi-1)
-[Metodologie di programmazione](https://github.com/CS-Swap/Metodologie-di-Programmazione)
-[Architettura](https://github.com/CS-Swap/Architettura-degli-Elaboratori)
-[Calcolo Integrale](https://github.com/CS-Swap/Calcolo-Integrale)
+- [Algoritmi 1](https://github.com/CS-Swap/Algoritmi-1)
+- [Metodologie di programmazione](https://github.com/CS-Swap/Metodologie-di-Programmazione)
+- [Architettura](https://github.com/CS-Swap/Architettura-degli-Elaboratori)
+- [Calcolo Integrale](https://github.com/CS-Swap/Calcolo-Integrale)
 
 
