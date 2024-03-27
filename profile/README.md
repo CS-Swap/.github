@@ -8,7 +8,7 @@
 
 Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
-### 🏫 Materie
+### 📚 Materie
 Primo anno, primo semestre:
 - [Algoritmi 1](https://github.com/CS-Swap/Algoritmi-1)
 - [Metodologie di programmazione](https://github.com/CS-Swap/Metodologie-di-Programmazione)
