@@ -22,7 +22,7 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
 
 ## 🌟 Un grazie speciale a ...
-tutte le persone che hanno caricato le loro soluzioni e che ci aiutano a migliorare i vari repository
+tutte le persone che hanno caricato le loro soluzioni e che ci aiutano a migliorare i vari repository, è grazie a voi che tutto questo è possibile
 - [luckignolo32](https://github.com/orgs/CS-Swap/people/luckignolo32)
 - [thegeek-sys](https://github.com/orgs/CS-Swap/people/thegeek-sys)
 - [AglaiaNorza](https://github.com/AglaiaNorza)
