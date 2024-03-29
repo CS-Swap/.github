@@ -10,7 +10,7 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
 
 ## 📚 Corsi
->Primo anno, secondo semestre:
+>Primo anno, primo semestre:
 >- [Progettazione di sistemi digitali](https://github.com/CS-Swap/Progettazione-Sistemi-Digitali)
 >- [Metodi Matematici](https://github.com/CS-Swap/Metodi-Matematici-per-l-Informatica)
 
