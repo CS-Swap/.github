@@ -21,3 +21,14 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 >- [Calcolo Integrale](https://github.com/CS-Swap/Calcolo-Integrale)
 
 
+## 🌟 Un grazie speciale a ...
+tutte le persone che hanno caricato le loro soluzioni e che ci aiutano a migliorare i vari repository
+- [luckignolo32](https://github.com/orgs/CS-Swap/people/luckignolo32)
+- [thegeek-sys](https://github.com/orgs/CS-Swap/people/thegeek-sys)
+- [AglaiaNorza](https://github.com/AglaiaNorza)
+- [mogliaaaa](https://github.com/mogliaaaa)
+- [SickRickX2](https://github.com/SickRickX2)
+- [ChiareDaze](https://github.com/ChiareDaze)
+- [Erinrrr](https://github.com/orgs/CS-Swap/people/erinrrr)
+- [VladGeek](https://github.com/VladGeek)
+- [Divine-Sunderer](https://github.com/Divine-Sunderer)
