@@ -30,6 +30,6 @@ tutte le persone che hanno caricato le loro soluzioni e che ci aiutano a miglior
 - [mogliaaaa](https://github.com/mogliaaaa)
 - [SickRickX2](https://github.com/SickRickX2)
 - [ChiareDaze](https://github.com/ChiareDaze)
-- [erinrrr](https://github.com/orgs/CS-Swap/people/erinrrr)
+- [erinrrr](https://github.com/erinrrr)
 - [VladGeek](https://github.com/VladGeek)
 - [Divine-Sunderer](https://github.com/Divine-Sunderer)
