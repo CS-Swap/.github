@@ -12,8 +12,8 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 ## 📚 Corsi
 >Primo anno, primo semestre:
 >- [Progettazione di sistemi digitali](https://github.com/CS-Swap/Progettazione-Sistemi-Digitali)
->- [Metodi Matematici](https://github.com/CS-Swap/Metodi-Matematici-per-l-Informatica)
->- [Fondamenti di Programmazione](https://github.com/CS-Swap/Fondamenti-di-Programmazione)
+>- [Metodi Matematici](https://github.com/CS-Swap/Metodi-Matematici-per-l-Informatica) 🏗️
+>- [Fondamenti di Programmazione](https://github.com/CS-Swap/Fondamenti-di-Programmazione) 🏗️
 
 >Primo anno, secondo semestre:
 >- [Algoritmi 1](https://github.com/CS-Swap/Algoritmi-1)
