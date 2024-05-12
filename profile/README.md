@@ -13,11 +13,11 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 >Primo anno, primo semestre:
 >- [Progettazione di sistemi digitali](https://github.com/CS-Swap/Progettazione-Sistemi-Digitali)
 >- [Metodi Matematici](https://github.com/CS-Swap/Metodi-Matematici-per-l-Informatica) 🏗️
->- [Fondamenti di Programmazione](https://github.com/CS-Swap/Fondamenti-di-Programmazione) 🏗️
+>- [Fondamenti di Programmazione (link esterno)]() 🏗️
 
 >Primo anno, secondo semestre:
 >- [Algoritmi 1](https://github.com/CS-Swap/Algoritmi-1)
->- [Metodologie di programmazione (link esterno)]()
+>- [Metodologie di programmazione]()
 >- [Architettura](https://github.com/CS-Swap/Architettura-degli-Elaboratori)
 >- [Calcolo Integrale](https://github.com/CS-Swap/Calcolo-Integrale)
 
