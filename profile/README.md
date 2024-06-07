@@ -17,8 +17,8 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
 >Primo anno, secondo semestre:
 >- [Algoritmi 1](https://github.com/CS-Swap/Algoritmi-1)
->- [Metodologie di programmazione](https://github.com/CS-Swap/Metodologie-di-Programmazione)
->- [Architettura](https://github.com/CS-Swap/Architettura-degli-Elaboratori)
+>- [Metodologie di Programmazione](https://github.com/CS-Swap/Metodologie-di-Programmazione)
+>- [Architettura degli Elaboratori](https://github.com/CS-Swap/Architettura-degli-Elaboratori)
 >- [Calcolo Integrale](https://github.com/CS-Swap/Calcolo-Integrale)
 
 
