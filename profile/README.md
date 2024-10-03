@@ -21,6 +21,8 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 >- [Architettura degli Elaboratori](https://github.com/CS-Swap/Architettura-degli-Elaboratori)
 >- [Calcolo Integrale](https://github.com/CS-Swap/Calcolo-Integrale)
 
+## 🧩 Link ai siti dei professori
+[Link](https://github.com/CS-Swap/Link)
 
 ## 🌟 Un grazie speciale a ...
 tutte le persone che hanno caricato le loro soluzioni e che ci aiutano a migliorare i vari repository
