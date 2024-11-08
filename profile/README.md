@@ -4,7 +4,7 @@
 
 📚 Qui troverai una vasta raccolta di esercizi risolti, e altre risorse utili relative ai nostri studi universitari. Speriamo che questo repository sia utile non solo per noi, ma anche per altri studenti che cercano materiale di studio aggiuntivo o esempi pratici per approfondire i concetti affrontati nei corsi.
 
-👨‍💻 Crediamo nell'importanza della condivisione e dell'aiuto reciproco. Se hai usufruito delle nostre risorse e ti piacerebbe aiutarci, ti invitiamo a contribuire caricando altro materiale o risolvendo altri esercizi. Insieme possiamo creare una comunità più forte.
+👨‍💻 Crediamo che l’apprendimento sia più efficace quando condiviso. È proprio per questo che continuiamo a caricare e rendere disponibili i nostri esercizi risolti, progetti e risorse. Pensiamo che quando le idee circolano liberamente e gli studenti possono confrontarsi con il lavoro degli altri, si crei un ambiente di crescita reciproca, dove ognuno può migliorare grazie all’impegno e alla passione degli altri.
 
 Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
