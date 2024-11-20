@@ -9,7 +9,7 @@
 Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
 ## 📚 Corsi
-### Primo anno
+### 1️⃣ Primo anno
 >Primo anno, primo semestre:
 >- [Progettazione di sistemi digitali](https://github.com/CS-Swap/Progettazione-Sistemi-Digitali)
 >- [Metodi Matematici (link esterno)](https://github.com/Princic-1837592/metodi-matematici) 
@@ -20,7 +20,7 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 >- [Metodologie di Programmazione](https://github.com/CS-Swap/Metodologie-di-Programmazione)
 >- [Architettura degli Elaboratori](https://github.com/CS-Swap/Architettura-degli-Elaboratori)
 >- [Calcolo Integrale](https://github.com/CS-Swap/Calcolo-Integrale)
-### Secondo anno
+### 2️⃣ Secondo anno
 >Secondo anno, primo semestre:
 >- [Algebra](https://github.com/CS-Swap/Algebra)
 
