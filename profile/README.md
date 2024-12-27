@@ -23,6 +23,9 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 ### 2️⃣ Secondo anno
 >Secondo anno, primo semestre:
 >- [Algebra](https://github.com/CS-Swap/Algebra)
+>- [Calcolo delle probabilità (link esterno)](https://github.com/user-attachments/files/18259514/raccoltaesami.1.pdf)
+>- [Basi di dati 1 (link esterno)](https://drive.google.com/drive/folders/0B-4exWJj0L7RN2Z6LWlhZzJ4cEk?resourcekey=0-TwpaRyibcTAnhMv2Q-fLlQ)
+>- [Sistemi operativi 1 (link esterno)](https://t.me/so_1_bot)
 
 >**🖇️ Link ai siti dei professori:** [Link](https://github.com/CS-Swap/Link)
 
