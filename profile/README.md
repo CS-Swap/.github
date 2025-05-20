@@ -27,6 +27,9 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 >- [Basi di dati 1 (link esterno)](https://drive.google.com/drive/folders/0B-4exWJj0L7RN2Z6LWlhZzJ4cEk?resourcekey=0-TwpaRyibcTAnhMv2Q-fLlQ)
 >- [Sistemi operativi 1 (link esterno)](https://t.me/so_1_bot)
 
+>Secondo anno, secondo semestre:
+>- [Algoritmi 2](https://github.com/CS-Swap/Algoritmi-2)
+
 >**🖇️ Link ai siti dei professori:** [Link](https://github.com/CS-Swap/Link)
 
 ---
