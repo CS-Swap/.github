@@ -29,6 +29,8 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
 >Secondo anno, secondo semestre:
 >- [Algoritmi 2](https://github.com/CS-Swap/Algoritmi-2)
+>- [Sistemi operativi 2 (link esterno)](https://t.me/so_1_bot)
+
 
 >**🖇️ Link ai siti dei professori:** [Link](https://github.com/CS-Swap/Link)
 
