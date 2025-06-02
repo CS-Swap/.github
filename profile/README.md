@@ -38,6 +38,9 @@ Grazie per aver visitato la nostra pagina GitHub e buon coding! 🚀
 
 ## 🌟 Un grazie speciale a ...
 tutte le persone che hanno caricato le loro soluzioni e che ci aiutano a migliorare i vari repository
+- [gia05llo](https://github.com/gia05llo)
+- [MaxTheOne05](https://github.com/MaxTheOne05)
+- [giamm025](https://github.com/giamm025)
 - [luckignolo32](https://github.com/luckignolo32)
 - [thegeek-sys](https://github.com/thegeek-sys)
 - [AglaiaNorza](https://github.com/AglaiaNorza)
